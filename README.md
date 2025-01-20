@@ -8,6 +8,6 @@ Question: What are the demographic and performance characteristics of the major 
 
 Key findings: The English Premier League (EPL) has the most goals but is closely followed by the Italian Serie A. All leagues show a significant number of goals by players who are not attackers, except the Serie A. The mean age across the major leagues is 25, with the French Ligue 1 having the youngest. Each league is dominated by players from the local nationality, but the EPL is the most diverse. The EPL has the highest total amount of player market value.
 
-These findings are demonstrated by 4 visualisations inclduing: stacked barchart, grouped boxplot, heatmap, treemap. These are in order of the R script numbers.
+These findings are demonstrated by 4 visualisations including: stacked barchart, grouped boxplot, heatmap, treemap. These are in order of the R script numbers.
 
 To run the code, the script "Data_exploring_0" must be run first. This helps load in data from https://data.world/dcereijo/player-scores and uses the "apps" and "players" data sets. After this, the visualisation scripts can be run in any order. The png files are the expected graphs you should get after running their specific script. 
