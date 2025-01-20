@@ -14,4 +14,5 @@ ggplot(major_league_players,
     "FR1" = "French\nLigue 1",
     "IT1" = "Italian\nSerie A",
     "L1" = "German\nBundesliga")) +
+  scale_fill_viridis_d(option = "viridis") +
   guides(fill = "none")
